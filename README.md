@@ -1,3 +1,4 @@
+
 # MA-291 - Initiation au JavaScript
 
 Ce projet a été conçu pour vous préparer à l’évaluation pratique du module.
@@ -34,3 +35,10 @@ Vous trouverez sous `specs` cinq tâches à réaliser :
 - [Task005 - Gestion simple d’erreur](specs/task005/task005.md)
 
 Pour identifier rapidement les zones à modifier, utilisez l’affichage **TODO** de votre IDE.
+=======
+# MA291-Farah
+les version:
+git = git version 2.51.0.windows.1
+node = v24.12.0
+npm = 11.6.2
+
