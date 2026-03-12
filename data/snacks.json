@@ -1,0 +1,41 @@
+[{
+        "name": "Classic Sandwich",
+        "alt": "Classic Sandwich",
+        "description": "Fresh bread, salad and cheese prepared every morning.",
+        "price": 7.5,
+        "devise": "chf",
+        "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "name": "Berry Yogurt Cup",
+        "alt": "Berry Yogurt Cup",
+        "description": "Creamy yogurt with berries and granola.",
+        "price": 5.2,
+        "devise": "chf",
+        "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "name": "Veggie Wrap",
+        "alt": "Veggie Wrap",
+        "description": "A light wrap with crunchy vegetables and herbs.",
+        "price": 6.8,
+        "devise": "chf",
+        "imageUrl": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "name": "aptos",
+        "alt": "apotos",
+        "description": "thats sweet",
+        "price": "8.9",
+        "devise": "chf",
+        "imageUrl": "https://static1.mujerhoy.com/www/multimedia/201901/21/media/cortadas/arandano-kaLF-U70336622905cOF-624x936@MujerHoy.jpg"
+    },
+    {
+        "name": "croissant",
+        "alt": "croissant",
+        "description": "thats delicieux",
+        "price": 11.9,
+        "devise": "chf",
+        "imageUrl": "https://i.pinimg.com/736x/47/c1/11/47c11149adeb6035fc3223a3ac51f7c6--snaks-brunch.jpg"
+    }
+]
